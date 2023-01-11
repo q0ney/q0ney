@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on my first website https://q0ney.github.io
-- 🌱 I’m currently learning HTML, CSS, JS, REACT, TYPESCRIPT, NODE
+- 🌱 I’m currently learning HTML, CSS, JS
 
 <!--
 **q0ney/q0ney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
