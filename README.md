@@ -13,6 +13,8 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
   <img width="12" />
+    <img src="https://skillicons.dev/icons?i=ts" height="40" alt="javascript logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vue" height="40" alt="vuejs logo"  />
@@ -46,6 +48,8 @@
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
+  <img width="12" />
+    <img src="https://skillicons.dev/icons?i=docker" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/jira/0052CC" height="40" alt="jira logo"  />
 </div>
