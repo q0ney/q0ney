@@ -51,7 +51,7 @@
   <img width="12" />
     <img src="https://skillicons.dev/icons?i=docker" height="40" alt="git logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/jira/0052CC" height="40" alt="jira logo"  />
+  <img src="https://cdn.simpleicons.org/jira/0052CC" height="40" width="40" alt="jira logo"  />
 </div>
 
 ###
